@@ -1,0 +1,13 @@
+streamlit
+langchain
+python-dotenv
+langchain_community
+huggingface_hub
+langchain_huggingface
+google-generativeai
+google-ai-generativelanguage==0.6.6
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+
